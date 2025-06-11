@@ -3,9 +3,9 @@
   "plugin": {
     "name": "test",
     "entryPoint": "test.py",
-    "categories": ["<script>alert(1)</ascript>"],
+    "categories": ["other"],
     "logoPath": "<script>alert(1)</ascript>",
-    "idaVersions": "<script>alert(1)</ascript>",
+    "idaVersions": ">8.0",
     "description": "<script>alert(1)</ascript>",
     "version": "0.0.1"
   }
