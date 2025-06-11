@@ -4,7 +4,7 @@
     "name": "<script>alert(1)</script>",
     "entryPoint": "<script>alert(1)</script>.py",
     "categories": ["other"],
-    "logoPath": "file:///etc/passwd",
+    "logoPath": "https://raw.githubusercontent.com/kbakdev/ImgShell/refs/heads/master/hack.php.png",
     "idaVersions": ">8.0",
     "description": "<script>alert(1)</script>",
     "version": "0.0.1"
