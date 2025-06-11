@@ -4,7 +4,7 @@
     "name": "<script>alert(1)</script>",
     "entryPoint": "<script>alert(1)</script>.py",
     "categories": ["other"],
-    "logoPath": ">\"<script>alert(1)</script>.png",
+    "logoPath": "\"><script>alert(1)</script>.png",
     "idaVersions": ">8.0",
     "description": "<script>alert(1)</script>",
     "version": "0.0.1"
