@@ -1,8 +1,8 @@
 {
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
-    "name": "test",
-    "entryPoint": "test.py",
+    "name": "<script>alert(1)</script>",
+    "entryPoint": "<script>alert(1)</script>.py",
     "categories": ["other"],
     "logoPath": "<script>alert(1)</script>",
     "idaVersions": ">8.0",
